@@ -6,7 +6,7 @@ public class Demo {
 	
 	public void sum()
 	{
-		System.out.println("addition");
+		System.out.println("gggggggggg");
 	}
 	public void sub()
 	{
